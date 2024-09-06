@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "response.h": "c",
+    "errno.h": "c",
+    "tcp.h": "c",
+    "server.h": "c"
+  }
+}
